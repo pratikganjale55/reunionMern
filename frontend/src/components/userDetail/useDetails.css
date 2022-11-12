@@ -1,0 +1,18 @@
+.about_container{
+    width: 40%;
+}
+.about_body {
+    display: flex;
+    flex-direction: column;
+}
+.left_card{
+    flex: 2;
+    display: inline-block;
+    
+}
+.left_card img {
+    width: 30%;
+}
+.right_card{
+    flex: 3;
+}

@@ -1,0 +1,32 @@
+
+    body{
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+
+.register{
+    width: 30%;
+    background-color: #A0E4CB;
+    padding: 2rem;
+    
+}
+
+.registerInput {
+    background-color: #FFF5E4;
+}
+.regsiterButton{
+    background-color: #0D4C92;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 2rem;
+}
+
+.regsiterButton:hover {
+    border: 2px solid #0D4C92;
+    background-color: #0D4C92;
+}
+
+.registerText {
+    text-align: center;
+    font-size: xx-large;
+
+}
